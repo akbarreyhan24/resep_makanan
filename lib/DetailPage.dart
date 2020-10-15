@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class DetailPage extends StatelessWidget {
+//buat hacktober fest
 
   final String itemJudul;
   final String itemSub;
